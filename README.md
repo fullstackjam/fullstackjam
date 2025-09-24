@@ -61,97 +61,48 @@
 
 ---
 
-## 💼 Skills & Expertise
+## 💼 Core Competencies
 
-### Site Reliability Engineering
-- **High Availability Systems**: Kubernetes cluster design, OpenShift distributed environments
-- **Performance Optimization**: Event loop optimization, dynamic concurrency control (token bucket/PID controller)
-- **Incident Response**: Full-link analysis, systematic troubleshooting, 4-hour recovery time reduced to 30 minutes
-- **SLA Management**: Maintained 99.95%+ core service SLA, 99.2% deployment success rate
+### 🎯 Site Reliability Engineering
+- **High Availability Design**: Built and maintained 99.95%+ SLA systems with Kubernetes clusters
+- **Incident Response**: Reduced recovery time from 4 hours to 30 minutes through systematic troubleshooting
+- **Performance Optimization**: Achieved 300% throughput increase with dynamic concurrency control algorithms
+- **Automation**: 90% automation of common O&M scenarios, 60% reduction in human errors
 
-### Cloud & Containerization
-- **Container Orchestration**: Kubernetes (high-availability deployment, troubleshooting), Docker containerization
-- **Cloud Platforms**: Alibaba Cloud, Tencent Cloud, OpenShift
-- **Infrastructure as Code**: Terraform, Ansible configuration management
-- **Configuration Drift Detection**: 99.9% configuration consistency rate
+### 🔄 DevOps & GitOps
+- **CI/CD Pipeline**: Designed complete pipelines with 99.2% deployment success rate
+- **GitOps Implementation**: 70% increase in deployment frequency, 90% reduction in manual intervention
+- **Infrastructure as Code**: 99.9% configuration consistency rate with automated drift detection
+- **Release Management**: Tiered release mechanisms with automated smoke testing
 
-### CI/CD & GitOps
-- **Pipeline Design**: Jenkins/Tekton pipeline design, GitLab CI/GitHub Actions
-- **GitOps Implementation**: GitHub Actions (CI) + ArgoCD (GitOps) complete pipeline
-- **Automated Deployment**: 70% increase in deployment frequency, 90% reduction in manual intervention
-- **Release Management**: Tiered release mechanism (test/pre-release/production), automated smoke testing
-
-### Development & Automation
-- **Python Development**: FastAPI/Flask automated tool development, Shell scripting
-- **AI Integration**: Spacy NLP + GenAI tech stack for intelligent command processing
-- **Workflow Engine**: DAG model design, horizontal scaling in distributed environments
-- **Automation**: 90% automation of common O&M scenarios, 60% reduction in human operational errors
-
-### Monitoring & Observability
-- **Full-Stack Monitoring**: Prometheus + Grafana + ELK monitoring system
-- **Log Management**: Self-healing toolchain, 70% automation of repetitive alerts
-- **Performance Tuning**: System throughput increased by 300%, task failure rate reduced by 85%
-- **Alert Optimization**: 40% reduction in false alarm rate
+### 🤖 Development & AI Integration
+- **Python Development**: FastAPI/Flask automated tool development with Shell scripting
+- **AI Integration**: Spacy NLP + GenAI for intelligent command processing systems
+- **Workflow Engine**: DAG model design with horizontal scaling in distributed environments
+- **Monitoring**: Self-healing toolchain with 70% automation of repetitive alerts
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 Citigroup Global Markets (2022.08 - 2025.07)
-**SRE Tech Lead | Shanghai**
+### 🔧 DevOps & Infrastructure
+- **[k8s-gitops](https://github.com/fullstackjam/k8s-gitops)** - Kubernetes GitOps automation with ArgoCD integration
+  - 🛠️ **Tech**: Python, Kubernetes, ArgoCD, Helm, Terraform
+  - ⭐ **Features**: Automated deployments, multi-environment management, configuration management
+  - 🎯 **Focus**: GitOps workflow implementation and infrastructure automation
 
-#### 🤖 Intelligent O&M Platform (Python FastAPI)
-- **Tech Stack**: Python FastAPI, Spacy NLP, GenAI, OpenShift, DAG Workflow Engine
-- **Key Features**: 
-  - High-availability Workflow engine with DAG model and horizontal scaling
-  - Intelligent command processing system with NLP + GenAI integration
-  - Dynamic concurrency control algorithms (token bucket/PID controller)
-- **Impact**: 30% improvement in business response speed, 90% automation of O&M scenarios, 60% reduction in human errors, 300% increase in system throughput
+### 🌐 Web Applications  
 
-#### 🔄 CI/CD & GitOps System
-- **Tech Stack**: Tekton/Jenkins, Helm, ArgoCD, GitHub Actions
-- **Key Features**:
-  - Complete pipeline from code commit to production release
-  - Tiered release mechanism (test/pre-release/production)
-  - Automated smoke testing and Helm Chart versioning governance
-- **Impact**: 99.2% deployment success rate, 55% reduction in production failures, 200 person-days saved annually
+- **[flask-watchlist](https://github.com/fullstackjam/flask-watchlist)** - Personal watchlist management application
+  - 🛠️ **Tech**: Python, Flask, SQLAlchemy, Bootstrap
+  - ⭐ **Features**: User authentication, CRUD operations, search functionality
+  - 🎯 **Focus**: Python web development and database design
 
-#### 🏗️ Infrastructure Engineering
-- **Tech Stack**: Ansible, Terraform, Tekton Pipeline
-- **Key Features**:
-  - Server configuration drift detection system
-  - Automated release package generation pipeline
-  - Configuration consistency monitoring
-- **Impact**: 99.9% configuration consistency rate, 15+ fewer production incidents annually
-
-### 🏢 Shanghai Qunzhima Information Technology (2021.03 - 2022.06)
-**SRE | Shanghai**
-
-#### 🛠️ Self-Developed O&M Platform (Python Flask)
-- **Tech Stack**: Python Flask, Aliyun SDK, Docker, Alibaba Cloud
-- **Key Features**:
-  - Project management and asset automation export
-  - Monthly report auto-generation
-  - On-call support and private deployment automation
-- **Impact**: Significantly improved internal management efficiency and data accuracy
-
-#### 🏗️ Full-Stack Infrastructure Management
-- **Responsibilities**: Hardware allocation, application/middleware selection, capacity planning, performance tuning
-- **Scope**: Computers, network equipment, security systems, printers, applications, middleware, infrastructure
-- **Focus**: Design, capacity planning, performance optimization, and incident response
-
-### 🏠 Personal Projects
-
-#### 🔧 GitOps Technical Practice
-- **Tech Stack**: Proxmox, Kubernetes, GitHub Actions, ArgoCD
-- **Implementation**: 3-node highly available Kubernetes cluster on Proxmox
-- **Pipeline**: Complete GitOps pipeline with GitHub Actions (CI) + ArgoCD (GitOps)
-- **Impact**: 70% increase in deployment frequency, 90% reduction in manual intervention
-
-#### 📝 Personal Blog & Knowledge Sharing
-- **Tech Stack**: HTML, CSS, JavaScript, GitHub Actions
-- **Content**: Technical articles on SRE, DevOps, and automation
-- **Community**: 50+ technical sharing sessions, 200+ person-times coverage, 90% knowledge base documentation coverage
+### 📝 Content & Blogging
+- **[blog](https://github.com/fullstackjam/blog)** - Personal technical blog
+  - 🛠️ **Tech**: HTML, CSS, JavaScript, GitHub Actions
+  - ⭐ **Features**: Responsive design, SEO optimization, automated publishing
+  - 🎯 **Focus**: Technical writing and knowledge sharing
 
 ---
 
