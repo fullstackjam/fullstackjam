@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently** SRE Tech Lead at Citigroup Global Markets Asia Limited (China)
+- 🔭 **Currently working on** AI-assisted infrastructure automation and GitOps workflows
 - 🌱 **Expertise** Site Reliability Engineering, DevOps, Kubernetes, Python Development
 - 👯 **Looking to collaborate on** Open source SRE tools and automation projects
 - 💬 **Ask me about** Python, Kubernetes, Docker, GitOps, CI/CD, Monitoring
