@@ -36,10 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullstackjam&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
 ### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -81,11 +77,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjam&repo=k8s-gitops&theme=radical&hide_border=true" alt="k8s-gitops" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjam&repo=flask-watchlist&theme=radical&hide_border=true" alt="flask-watchlist" />
-</div>
-
 ### 🔧 DevOps & Infrastructure
 - **[k8s-gitops](https://github.com/fullstackjam/k8s-gitops)** - Kubernetes GitOps automation with ArgoCD integration
   - 🛠️ **Tech**: Python, Kubernetes, ArgoCD, Helm, Terraform
@@ -118,10 +109,6 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fullstackjam&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jam-ma-a817b5239/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fullstackjam)
@@ -129,18 +116,4 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.fullstackjam.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fullstackjam)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fullstackjam/fullstackjam/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
