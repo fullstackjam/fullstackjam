@@ -77,25 +77,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fullstackjam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackjam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fullstackjam&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
 ## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjam&repo=k8s-gitops&theme=radical" alt="k8s-gitops" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackjam&repo=comments.fullstackjam.com&theme=radical" alt="comments-system" />
-</div>
 
 ### 🔧 DevOps & Infrastructure
 - **[k8s-gitops](https://github.com/fullstackjam/k8s-gitops)** - Comprehensive Kubernetes GitOps automation with ArgoCD integration
@@ -104,10 +86,6 @@
   - 🎯 **Impact**: Reduced deployment time by 80%, improved reliability
 
 ### 🌐 Web Applications  
-- **[comments.fullstackjam.com](https://github.com/fullstackjam/comments.fullstackjam.com)** - Modern web comment system with real-time updates
-  - 🛠️ **Tech**: TypeScript, React, Node.js, PostgreSQL
-  - ⭐ **Features**: Real-time notifications, moderation tools, responsive design
-  - 🎯 **Impact**: Handles 10K+ comments with 99.9% uptime
 
 - **[flask-watchlist](https://github.com/fullstackjam/flask-watchlist)** - Personal watchlist management application
   - 🛠️ **Tech**: Python, Flask, SQLAlchemy, Bootstrap
@@ -138,32 +116,4 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.fullstackjam.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fullstackjam)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fullstackjam&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fullstackjam/fullstackjam/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-> ⚡ **"I build fullstack systems and DevOps tools that empower teams, automate workflows, and streamline operations."**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
