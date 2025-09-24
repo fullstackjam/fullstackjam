@@ -106,28 +106,6 @@
 
 ---
 
-## 🌟 Personal Highlights
-
-### 🔧 GitOps Technical Practice
-- **Built highly available Kubernetes cluster** (3 nodes) on Proxmox virtualization platform
-- **Implemented complete GitOps pipeline** using GitHub Actions (CI) + ArgoCD (GitOps)
-- **Achieved fully automated deployment** from code submission to production environment
-- **Results**: 70% increase in deployment frequency, 90% reduction in manual intervention
-
-### 🛠️ Systematic Troubleshooting Expert
-- **Skilled in full-link analysis** to pinpoint complex system issues (network jitter, resource contention)
-- **Led resolution of cluster-level failures** caused by memory leaks (recovery time: 4 hours → 30 minutes)
-- **Optimized monitoring and alerting strategies** with 40% reduction in false alarm rate
-- **Proactive stability optimization** for key modules and critical systems
-
-### 📚 Engineering Culture Promoter
-- **Initiated and hosted weekly tech sharing sessions** (50+ sessions, 200+ person-times coverage)
-- **Built comprehensive knowledge base** with 90% coverage of daily O&M issue documentation
-- **Designed standardized O&M manuals** (deployment specifications/failure recovery plans)
-- **Promoted best practices** and continuous improvement culture within teams
-
----
-
 ## ✍️ Blog
 
 📝 **Personal Blog**: [https://blog.fullstackjam.com/](https://blog.fullstackjam.com/)
