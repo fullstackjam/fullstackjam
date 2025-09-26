@@ -64,10 +64,10 @@
 
 ### 🌐 Web Applications  
 
-- **[flask-watchlist](https://github.com/fullstackjam/flask-watchlist)** - Personal watchlist management application
-  - 🛠️ **Tech**: Python, Flask, SQLAlchemy, Bootstrap
-  - ⭐ **Features**: User authentication, CRUD operations, search functionality
-  - 🎯 **Focus**: Python web development and database design
+- **[pulsehub](https://github.com/fullstackjam/pulsehub)** - Real-time hot topics aggregation platform
+  - 🛠️ **Tech**: TypeScript, React, Vite, Tailwind CSS, Docker, Kubernetes
+  - ⭐ **Features**: Multi-platform hot topics, real-time updates, drag-and-drop sorting, responsive design
+  - 🎯 **Focus**: Modern web development and real-time data visualization
 
 ### 📝 Content & Blogging
 - **[blog](https://github.com/fullstackjam/blog)** - Personal technical blog
