@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on** AI-assisted infrastructure automation and GitOps workflows
+- 🔭 **Currently working on** [OpenBoot](https://github.com/openbootdotdev/openboot) — one-command macOS dev environment setup, and GitOps workflows
 - 🌱 **Expertise** Site Reliability Engineering, DevOps, Kubernetes, Python Development
 - 👯 **Looking to collaborate on** Open source SRE tools and automation projects
 - 💬 **Ask me about** Python, Kubernetes, Docker, GitOps, CI/CD, Monitoring
@@ -37,6 +37,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -55,6 +56,19 @@
 </div>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+[![OpenBoot](https://github-readme-stats.vercel.app/api/pin/?username=openbootdotdev&repo=openboot&theme=radical&hide_border=true)](https://github.com/openbootdotdev/openboot)
+
+</div>
+
+### ⭐ [OpenBoot](https://github.com/openbootdotdev/openboot) — Set up your Mac in one command
+> `curl -fsSL openboot.dev/install | bash`
+- 🛠️ **Tech**: Go, Homebrew, GNU Stow, Bubble Tea TUI
+- ⭐ **Features**: Interactive TUI with 50+ curated dev tools, 3 presets, parallel install, dotfiles management, web dashboard for team config sharing
+- 🎯 **Focus**: One-command macOS dev environment bootstrap — replacing hours of manual setup
+- 🌐 **Website**: [openboot.dev](https://openboot.dev)
 
 ### 🔧 DevOps & Infrastructure
 - **[k8s-gitops](https://github.com/fullstackjam/k8s-gitops)** - Kubernetes GitOps automation with ArgoCD integration
