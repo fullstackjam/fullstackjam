@@ -57,12 +57,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![OpenBoot](https://github-readme-stats.vercel.app/api/pin/?username=openbootdotdev&repo=openboot&theme=radical&hide_border=true)](https://github.com/openbootdotdev/openboot)
-
-</div>
-
 ### ⭐ [OpenBoot](https://github.com/openbootdotdev/openboot) — Set up your Mac in one command
 > `curl -fsSL openboot.dev/install | bash`
 - 🛠️ **Tech**: Go, Homebrew, GNU Stow, Bubble Tea TUI
@@ -75,13 +69,6 @@
   - 🛠️ **Tech**: Python, Kubernetes, ArgoCD, Helm, Terraform
   - ⭐ **Features**: Automated deployments, multi-environment management, configuration management
   - 🎯 **Focus**: GitOps workflow implementation and infrastructure automation
-
-### 🌐 Web Applications  
-
-- **[pulsehub](https://github.com/fullstackjam/pulsehub)** - Real-time hot topics aggregation platform
-  - 🛠️ **Tech**: TypeScript, React, Vite, Tailwind CSS, Docker, Kubernetes
-  - ⭐ **Features**: Multi-platform hot topics, real-time updates, drag-and-drop sorting, responsive design
-  - 🎯 **Focus**: Modern web development and real-time data visualization
 
 ### 📝 Content & Blogging
 - **[blog](https://github.com/fullstackjam/blog)** - Personal technical blog
