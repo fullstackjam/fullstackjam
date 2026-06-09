@@ -1,8 +1,8 @@
 ### Hey, I'm Jam 👋
 
-I build tools that make developers' lives easier. Currently focused on [OpenBoot](https://github.com/openbootdotdev/openboot) — a one-command macOS dev environment setup tool, and running Kubernetes clusters with GitOps.
+I build tools that make developers' lives easier. Currently focused on [OpenBoot](https://github.com/openbootdotdev/openboot) — a one-command macOS dev environment setup tool, and bridging AI coding agents with team chat via [Lark Coding Agent Bridge](https://github.com/fullstackjam/lark-coding-agent-bridge).
 
-SRE & DevOps by trade. Go and Python by choice.
+SRE & DevOps by trade. Go, Python, and TypeScript by choice.
 
 #### 🔨 What I'm building
 
@@ -12,13 +12,15 @@ SRE & DevOps by trade. Go and Python by choice.
   curl -fsSL openboot.dev/install | bash
   ```
 
+- **[Lark Coding Agent Bridge](https://github.com/fullstackjam/lark-coding-agent-bridge)** — Bridge Feishu/Lark with local coding agents (Claude Code, Codex CLI, opencode). Streaming cards, per-chat sessions, multi-workspace management. Built with TypeScript & Node.js.
+
 - **[k8s-gitops](https://github.com/fullstackjam/k8s-gitops)** — Kubernetes GitOps automation with ArgoCD. Multi-environment deployment, Helm charts, Terraform-managed infra.
 
 - **[blog](https://github.com/fullstackjam/blog)** — Where I write about DevOps, Kubernetes, and things I've broken in production. → [blog.fullstackjam.com](https://blog.fullstackjam.com/)
 
 #### 🛠 Tech I work with
 
-`Go` `Python` `Kubernetes` `Docker` `Terraform` `ArgoCD` `Helm` `Ansible` `Prometheus` `Grafana` `FastAPI` `Elasticsearch` `GitHub Actions`
+`Go` `Python` `TypeScript` `Kubernetes` `Docker` `Terraform` `ArgoCD` `Helm` `Ansible` `Prometheus` `Grafana` `FastAPI` `Node.js` `Elasticsearch` `GitHub Actions`
 
 #### 📫 Find me
 
